@@ -3,7 +3,7 @@ asgiref==3.2.7
 attrs==19.3.0
 black==19.10b0
 click==7.1.2
-Django==3.1.8
+Django==3.1.9
 djangorestframework==3.11.0
 flake8==3.8.2
 importlib-metadata==1.6.0
